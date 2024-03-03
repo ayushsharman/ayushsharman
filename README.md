@@ -22,19 +22,13 @@ You can view my resume [here](https://drive.google.com/file/d/1zuPsU2yWOxsIrqjTo
 * APIs: REST APIs, MERN
 * Soft Skills: Public Speaking, Time Management, Leadership, Versatility, Problem Solving, Innovation
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
-
-## 🧑🏻‍💻 Experience
-
-**MEDOC Pvt. Ltd | Product Head | November 2022 - Present**
-**Appable | Flutter Developer | June 2023 - August 2023**
-**Code With Harry | Technical Content Writer | September 2022 - October 2022**
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=Java&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
 ## 🏆 Achievements & Certifications
 
