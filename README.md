@@ -6,8 +6,8 @@
 
 * **Email:** ashsharman123@gmail.com
 * **Phone:** 7888559896
-* **GitHub:** https://github.com/ayusharma
-* **LinkedIn:** https://www.linkedin.com/pub/dir/Ayush/Sharma
+* **GitHub:** https://github.com/ayusharman
+* **LinkedIn:** [https://www.linkedin.com/pub/dir/Ayush/Sharma](https://www.linkedin.com/in/ayush-sharman/)
 
 **Summary**
 
