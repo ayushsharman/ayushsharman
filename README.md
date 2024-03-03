@@ -1,4 +1,4 @@
-# < Ayush Sharma >
+# 👨🏻 Ayush Sharma
 
 **I am a passionate and results-oriented Software Engineer with experience in building cross-platform mobile apps, web applications, and content creation.**
 
@@ -14,6 +14,14 @@ I am a highly motivated and skilled Software Engineer with a strong foundation i
 
 You can view my resume [here](https://drive.google.com/file/d/1zuPsU2yWOxsIrqjToT6f77Bj4hM_2MfJ/view?usp=sharing).
 
+## ⚙️ Skills
+
+* Programming Languages: Flutter (Dart), C++, Java, Web Development (HTML, CSS, JavaScript), Python
+* Version Control Systems: Git & GitHub
+* Mobile Development: Android/IOS Development
+* APIs: REST APIs, MERN
+* Soft Skills: Public Speaking, Time Management, Leadership, Versatility, Problem Solving, Innovation
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -22,21 +30,13 @@ You can view my resume [here](https://drive.google.com/file/d/1zuPsU2yWOxsIrqjTo
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
-## Skills
-
-* Programming Languages: Flutter (Dart), C++, Java, Web Development (HTML, CSS, JavaScript), Python
-* Version Control Systems: Git & GitHub
-* Mobile Development: Android/IOS Development
-* APIs: REST APIs, MERN
-* Soft Skills: Public Speaking, Time Management, Leadership, Versatility, Problem Solving, Innovation
-
-## Experience
+## 🧑🏻‍💻 Experience
 
 **MEDOC Pvt. Ltd | Product Head | November 2022 - Present**
 **Appable | Flutter Developer | June 2023 - August 2023**
 **Code With Harry | Technical Content Writer | September 2022 - October 2022**
 
-## Achievements & Certifications
+## 🏆 Achievements & Certifications
 
 * Winner at SIH Internal Hackathon 2022
 * 750+ Questions on LeetCode & Coding Ninjas
