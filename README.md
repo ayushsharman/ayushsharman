@@ -12,6 +12,14 @@
 
 I am a highly motivated and skilled Software Engineer with a strong foundation in computer science principles and a passion for creating innovative and user-friendly software solutions. I have experience in various programming languages and technologies, including Flutter, Dart, C++, Java, Web Development (HTML, CSS, JavaScript), Python, Git & GitHub, and I am proficient in problem-solving, critical thinking, and teamwork. I am always eager to learn new things and expand my skillset, and I am confident in my ability to contribute to a team's success.
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+
 **Skills**
 
 * Programming Languages: Flutter (Dart), C++, Java, Web Development (HTML, CSS, JavaScript), Python
