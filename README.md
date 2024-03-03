@@ -4,10 +4,9 @@
 
 **Contact:**
 
-* **Email:** ashsharman123@gmail.com
-* **Phone:** 7888559896
-* **GitHub:** https://github.com/ayusharman
-* **LinkedIn:** [https://www.linkedin.com/pub/dir/Ayush/Sharma](https://www.linkedin.com/in/ayush-sharman/)
+* **Email:** 📧 ashsharman123@gmail.com
+* **GitHub:** [🚀 ayushsharman](https://github.com/ayushsharman)
+* **LinkedIn:** [🔗 Ayush Sharma](https://www.linkedin.com/in/ayush-sharman/)
 
 **Summary**
 
@@ -37,11 +36,6 @@ I am a highly motivated and skilled Software Engineer with a strong foundation i
 * Created a series of CSS tutorials for the Code With Harry website, teaching visitors CSS and how to use it to create their own websites.
 * Delivered the code and articles for each lesson.
 
-**Projects**
-
-* **Feeleeria-2023 (2023)**: A Campus Social Media app to connect college students across various campuses, built with Flutter, Firebase and Cloudstore.
-* **Placement Notification Website (2024)**: Web portal for college students to check latest placement notifications, built using HTML, CSS & React JS and provides customized placement resources.
-
 **Education**
 
 * **Bachelor in Engineering (2021-2025) | Chandigarh University, Gharuan | CGPA: 8.12**
@@ -57,12 +51,6 @@ I am a highly motivated and skilled Software Engineer with a strong foundation i
 **Interests & Hobbies**
 
 * Writing, Psychology, Reading, Playing Flute, Learning New Things
-
-**Languages Known**
-
-* English
-* Hindi
-* Punjabi
 
 **Additional Information**
 
