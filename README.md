@@ -8,9 +8,13 @@
 * **GitHub:** [🚀 ayushsharman](https://github.com/ayushsharman)
 * **LinkedIn:** [🔗 Ayush Sharma](https://www.linkedin.com/in/ayush-sharman/)
 
-**Summary**
+## 👨‍💻 About Me
 
 I am a highly motivated and skilled Software Engineer with a strong foundation in computer science principles and a passion for creating innovative and user-friendly software solutions. I have experience in various programming languages and technologies, including Flutter, Dart, C++, Java, Web Development (HTML, CSS, JavaScript), Python, Git & GitHub, and I am proficient in problem-solving, critical thinking, and teamwork. I am always eager to learn new things and expand my skillset, and I am confident in my ability to contribute to a team's success.
+
+## Download Resume
+
+You can download my resume [here](https://drive.google.com/file/d/1zuPsU2yWOxsIrqjToT6f77Bj4hM_2MfJ/view?usp=sharing).
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -20,7 +24,7 @@ I am a highly motivated and skilled Software Engineer with a strong foundation i
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
-**Skills**
+## Skills
 
 * Programming Languages: Flutter (Dart), C++, Java, Web Development (HTML, CSS, JavaScript), Python
 * Version Control Systems: Git & GitHub
@@ -28,27 +32,17 @@ I am a highly motivated and skilled Software Engineer with a strong foundation i
 * APIs: REST APIs, MERN
 * Soft Skills: Public Speaking, Time Management, Leadership, Versatility, Problem Solving, Innovation
 
-**Experience**
+## Experience
 
 **MEDOC Pvt. Ltd | Product Head | November 2022 - Present**
-
-* Successfully led and managed a team working on Flutter, TypeScript, and Node.js to develop a Web App, DocaApp.
-* Streamlined the software development cycle of the product.
-
 **Appable | Flutter Developer | June 2023 - August 2023**
-
-* Developed Cross-platform apps utilizing REST APIs, Geo-tracking and Google Maps.
-
 **Code With Harry | Technical Content Writer | September 2022 - October 2022**
 
-* Created a series of CSS tutorials for the Code With Harry website, teaching visitors CSS and how to use it to create their own websites.
-* Delivered the code and articles for each lesson.
-
-**Education**
+## Education
 
 * **Bachelor in Engineering (2021-2025) | Chandigarh University, Gharuan | CGPA: 8.12**
 
-**Achievements & Certifications**
+## Achievements & Certifications
 
 * Winner at SIH Internal Hackathon 2022
 * 750+ Questions on LeetCode & Coding Ninjas
