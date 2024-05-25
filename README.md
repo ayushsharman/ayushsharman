@@ -12,7 +12,7 @@
 
 I am a highly motivated and skilled Software Engineer with a strong foundation in computer science principles and a passion for creating innovative and user-friendly software solutions. I have experience in various programming languages and technologies, including Flutter, Dart, C++, Java, Web Development (MERN stack), DevOps, Python, Git & GitHub, and I am proficient in problem-solving, critical thinking, and teamwork. I am always eager to learn new things and expand my skillset, and I am confident in my ability to contribute to a team's success.
 
-You can view my resume [here](https://drive.google.com/file/d/1zuPsU2yWOxsIrqjToT6f77Bj4hM_2MfJ/view?usp=sharing).
+You can view my resume [here](https://drive.google.com/file/d/1BniwhXLCN6P5t6CZCj6ciZvw4rcttaCu/view?usp=sharing).
 
 ## ⚙️ Skills
 
