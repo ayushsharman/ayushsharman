@@ -7,6 +7,7 @@
 * **Email:** 📧 ashsharman123@gmail.com
 * **GitHub:** [🚀 ayushsharman](https://github.com/ayushsharman)
 * **LinkedIn:** [🔗 Ayush Sharma](https://www.linkedin.com/in/ayush-sharman/)
+* **Portfolio:** [🧑‍💻 My Portfolio](http://ayushsharman.github.io/)
 
 ## 👨‍💻 About Me
 
@@ -36,7 +37,9 @@ You can view my resume [here](https://drive.google.com/file/d/1BniwhXLCN6P5t6CZC
 ## 🏆 Achievements & Certifications
 
 * Winner at SIH Internal Hackathon 2022
+* Mentor at Girl Script Summer of Code 2024
 * 750+ Questions on LeetCode & Coding Ninjas
 * Lead Coordinator: IICC 2022, Google DevFest 2022, Tekathon 2023, Hack-The-Fest 2022, Hackshield 2022
 * Letter of Recommendation by Head of Department, CSE 1st year
 * Angular Developer Program 2023 by Infosys Springboard
+* IBM and Google certification in Python
