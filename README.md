@@ -1,45 +1,176 @@
-# 👨🏻 Ayush Sharma
+# Ayush Sharma
 
-**I am a passionate and results-oriented Software Engineer with experience in building cross-platform mobile apps, web applications, and content creation.**
+### Founding FDE | Agentic AI | Product Builder | Enterprise Solutions
 
-**Contact:**
+I build **agentic AI systems and enterprise solutions** that turn ambiguous business problems into working software.
 
-* **Email:** 📧 ashsharman123@gmail.com
-* **GitHub:** [🚀 ayushsharman](https://github.com/ayushsharman)
-* **LinkedIn:** [🔗 Ayush Sharma](https://www.linkedin.com/in/ayush-sharman/)
-* **Portfolio:** [🧑‍💻 My Portfolio](http://ayushsharman.github.io/)
+Currently, I work as a **Founding Forward Deployed Engineer at Clear**, where I work directly with enterprise customers to identify high-value business and financial use cases and build AI-powered solutions around them.
 
-## 👨‍💻 About Me
+My work sits at the intersection of **agentic AI, product thinking, engineering, and customer problem-solving**. I work across the entire lifecycle, from understanding a workflow and defining the problem to designing agentic systems, building with AI, integrating business systems, and shipping solutions to real users.
 
-I am a highly motivated and skilled Software Engineer with a strong foundation in computer science principles and a passion for creating innovative and user-friendly software solutions. I have experience in various programming languages and technologies, including Flutter, Dart, C++, Java, Web Development (MERN stack), DevOps, Python, Git & GitHub, and I am proficient in problem-solving, critical thinking, and teamwork. I am always eager to learn new things and expand my skillset, and I am confident in my ability to contribute to a team's success.
+Previously, I was an early team member at **Medoc Health**, where I helped build and scale B2B healthcare products across **20+ hospitals and healthcare organizations**, reaching **1,000+ DAU**.
 
-You can view my resume [here](https://drive.google.com/file/d/1BniwhXLCN6P5t6CZCj6ciZvw4rcttaCu/view?usp=sharing).
+I enjoy working on problems where the requirements are unclear, the existing workflow is messy, and there is no obvious answer for what should be built.
 
-## ⚙️ Skills
+---
 
-- Programming Languages: Flutter (Dart), C++, Java, Python
-- Web Development: HTML, CSS, JavaScript
-- Frameworks/Libraries: MERN (MongoDB, Express.js, React, Node.js)
-- Version Control Systems: Git & GitHub
-- Cloud Services: AWS (Amazon Web Services)
-- Soft Skills: Public Speaking, Time Management, Leadership, Versatility, Problem Solving, Innovation
+## What I Work On
 
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge)
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=React&logoColor=%2361DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+### Agentic AI
 
+- AI agents and multi-step agentic workflows
+- Tool calling and function execution
+- Agent orchestration
+- Context and state management
+- AI-powered workflow automation
+- AI agents interacting with enterprise systems
+- LLM-powered decision and reasoning workflows
+- Human-in-the-loop systems
+- Evaluation and iteration of AI workflows
+- Building reliable AI systems around real business processes
 
-## 🏆 Achievements & Certifications
+### Enterprise AI
 
-* Winner at SIH Internal Hackathon 2022
-* Mentor at Girl Script Summer of Code 2024
-* 750+ Questions on LeetCode & Coding Ninjas
-* Lead Coordinator: IICC 2022, Google DevFest 2022, Tekathon 2023, Hack-The-Fest 2022, Hackshield 2022
-* Letter of Recommendation by Head of Department, CSE 1st year
-* Angular Developer Program 2023 by Infosys Springboard
-* IBM and Google certification in Python
+- Financial and operational workflows
+- Business process automation
+- Data ingestion and transformation
+- Reconciliation and investigation workflows
+- CRM and communication automation
+- AI-powered dashboards and decision-support systems
+- Integrations between enterprise systems
+- Turning manual workflows into software
+
+### Product & Engineering
+
+- Customer discovery
+- Workflow mapping
+- Problem definition
+- Solution architecture
+- Rapid prototyping
+- AI-assisted development
+- APIs and integrations
+- Database design
+- SQL
+- Python
+- JavaScript / TypeScript
+- C++
+- Git & GitHub
+
+---
+
+## Current Work
+
+### Founding Forward Deployed Engineer — Clear
+
+Building and deploying **agentic AI solutions for enterprise customers**.
+
+My work involves:
+
+- Working directly with CFOs, MDs, senior managers, and business teams to understand complex workflows and identify high-value problems.
+- Breaking ambiguous business problems into structured workflows, assumptions, and technical requirements.
+- Designing and building AI agents and agentic workflows that interact with enterprise data and systems.
+- Rapidly prototyping and shipping solutions using AI-assisted development.
+- Building end-to-end workflows across data ingestion, processing, reasoning, automation, and user-facing interfaces.
+- Iterating directly with customers based on real-world usage and feedback.
+- Exploring reusable patterns and architectures that can turn bespoke customer solutions into scalable capabilities.
+
+---
+
+## Previous Experience
+
+### Product & Operations Lead — Medoc Health
+
+Early team member helping build and scale B2B healthcare products from the ground up.
+
+- Built and scaled products across **20+ hospitals and healthcare organizations**, reaching **1,000+ DAU**.
+- Led cross-functional execution across Product, Engineering, Sales, Customer Success, and Operations.
+- Designed implementation and go-live frameworks that **reduced deployment time by 50%, from 30 days to 15 days**.
+- Analysed recurring production and UX issues, reducing monthly support tickets by **86%, from 30+ to 4**.
+- Worked directly with doctors, nurses, hospital administrators, and operational teams to translate complex real-world workflows into software.
+- Worked on AI-assisted healthcare workflows, OCR/report processing, voice interfaces, and model evaluation.
+
+---
+
+## What I'm Exploring
+
+I am particularly interested in the evolution of software from applications that users operate manually to **AI-native systems that can reason, use tools, interact with other systems, and execute workflows autonomously**.
+
+Areas I'm particularly interested in:
+
+- Agentic AI architectures
+- Multi-agent systems
+- Agent orchestration
+- Tool use and structured execution
+- AI-native enterprise software
+- Long-running AI workflows
+- Evaluation and reliability of agentic systems
+- AI + business process automation
+- AI-assisted software development
+- Human-AI collaboration
+- Building products around LLMs rather than simply adding LLM features to existing products
+
+---
+
+## Selected Work
+
+I'm actively building and experimenting with AI-powered products and systems.
+
+Some of my work includes:
+
+- Enterprise reconciliation workflows that ingest financial data, execute reconciliation processes, and surface results through interactive dashboards.
+- AI-powered CRM workflows connecting business communication with structured CRM data.
+- Agentic workflows for enterprise business processes.
+- AI-assisted product development and rapid prototyping.
+- Product experiments focused on turning manual operational workflows into automated systems.
+
+More projects and experiments can be found throughout my repositories.
+
+---
+
+## Earlier Technical Foundation
+
+Before moving heavily into product and AI, I worked extensively with:
+
+- C++
+- Python
+- JavaScript
+- Flutter / Dart
+- React
+- Node.js
+- MongoDB
+- Express.js
+- SQL
+- AWS
+- Git
+
+I also solved **750+ algorithm and data-structure problems** across LeetCode and Coding Ninjas.
+
+---
+
+## Other Work
+
+Outside technology and product, I create content on YouTube focused on **Indian movies, television, comedy, and pop culture analysis**.
+
+I enjoy building in both worlds: software systems where the problem is ambiguous, and content where the argument is.
+
+---
+
+## Achievements
+
+- Winner — Smart India Hackathon Internal Hackathon 2022
+- Mentor — GirlScript Summer of Code 2024
+- 750+ algorithm and data-structure problems solved
+- Lead Coordinator — IICC 2022, Google DevFest 2022, Tekathon 2023, Hack-The-Fest 2022, Hackshield 2022
+
+---
+
+## Connect
+
+- Email: ashsharman123@gmail.com
+- LinkedIn: [Ayush Sharma](https://www.linkedin.com/in/ayush-sharman/)
+- Portfolio: [ayushsharman.github.io](http://ayushsharman.github.io/)
+- GitHub: [ayushsharman](https://github.com/ayushsharman)
+
+---
+
+> I like building systems where the problem is ambiguous, the workflow is messy, and the software has to actually do the work.
