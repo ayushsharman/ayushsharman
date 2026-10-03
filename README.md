@@ -34,10 +34,6 @@ Recent work includes:
 
 Previously, I was a founding team member at Medoc Health, where I helped build and scale B2B healthcare products across **20+ hospitals and 1,000+ DAU**, working across product, engineering, operations, and enterprise deployments.
 
-## Beyond Code
-
-I also create YouTube content around Indian movies, television, comedy, and pop culture.
-
 ## Connect
 
 - Email: [ayush.sharma.ops@gmail.com](mailto:ayush.sharma.ops@gmail.com)
